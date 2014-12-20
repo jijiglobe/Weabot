@@ -1,0 +1,14 @@
+Jion:
+Added create new show feature.
+Begun the rating and synopsis feature.
+Improved mod.py.
+Bug fix.
+
+Wendy:
+Prevented adding one users as a friend multiple times.
+Improved design and layout.
+Added site name logo.
+Bug fix on animelist feature.
+Added profile picture and personal description feature.
+Added settings page.
+Added tab icon.
